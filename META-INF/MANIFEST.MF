@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Hodpital_Management_system
+Bundle-SymbolicName: Hodpital_Management_system
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: Hodpital_Management_system.jar,
+ ravi t e j a/Downloads/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0.jar
+Automatic-Module-Name: Hodpital.Management.system
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Export-Package: HospitalManagementSystem
